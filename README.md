@@ -6,7 +6,7 @@ This module adds the regions for Republic of Moldova country to the Magento 2 in
 1. Install via composer
 
 ```bash
-composer require burlacuweb/magento2-module-moldova-regions
+composer require burlacu-web/magento2-module-moldova-regions
 ```
 
 2. Run the following commands:
