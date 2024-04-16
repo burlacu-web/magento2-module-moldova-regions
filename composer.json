@@ -21,7 +21,7 @@
         "php": ">=8.2"
     },
     "license": [
-        "Proprietary"
+        "proprietary"
     ],
     "autoload": {
         "files": [
