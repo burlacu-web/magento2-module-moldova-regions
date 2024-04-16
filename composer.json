@@ -1,0 +1,34 @@
+{
+    "name": "burlacu-web/magento2-module-moldova-regions",
+    "version": "1.0.0",
+    "description": "Provides the list of regions for Moldova, Republic of country on the address edit/create forms",
+    "keywords": [
+        "magento",
+        "magento2",
+        "module",
+        "moldova",
+        "regions",
+        "raioane",
+        "municipii",
+        "checkout",
+        "address"
+    ],
+    "type": "magento2-module",
+    "require": {
+        "magento/framework": "*",
+        "magento/module-directory": "*",
+        "psr/log": "*",
+        "php": ">=8.2"
+    },
+    "license": [
+        "Proprietary"
+    ],
+    "autoload": {
+        "files": [
+            "registration.php"
+        ],
+        "psr-4": {
+            "BurlacuWeb\\MoldovaRegions\\": ""
+        }
+    }
+}
